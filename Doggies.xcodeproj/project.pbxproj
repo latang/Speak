@@ -7,12 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		899E6B04201D28A300F95DDD /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899E6B03201D28A300F95DDD /* Questions.swift */; };
+		899E6B06201D5C9900F95DDD /* Orange Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 899E6B05201D5C9900F95DDD /* Orange Background.jpg */; };
+		899E6B08201D7D4600F95DDD /* justTheArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 899E6B07201D7D4600F95DDD /* justTheArrow.png */; };
+		899E6B0A201D7F6E00F95DDD /* justTheArrow2.png in Resources */ = {isa = PBXBuildFile; fileRef = 899E6B09201D7F6E00F95DDD /* justTheArrow2.png */; };
+		899E6B0C201D9E5100F95DDD /* Dr Chen.png in Resources */ = {isa = PBXBuildFile; fileRef = 899E6B0B201D9E5100F95DDD /* Dr Chen.png */; };
 		89AB8B0F201C92300013D631 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AB8B0E201C92300013D631 /* AppDelegate.swift */; };
 		89AB8B11201C92300013D631 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AB8B10201C92300013D631 /* ViewController.swift */; };
-		89AB8B14201C92300013D631 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B12201C92300013D631 /* Main.storyboard */; };
+		89AB8B14201C92300013D631 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B12201C92300013D631 /* Main.storyboard */; settings = {ASSET_TAGS = (nameTextField, ); }; };
 		89AB8B16201C92300013D631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B15201C92300013D631 /* Assets.xcassets */; };
 		89AB8B19201C92300013D631 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B17201C92300013D631 /* LaunchScreen.storyboard */; };
 		89AB8B24201C92310013D631 /* DoggiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AB8B23201C92310013D631 /* DoggiesTests.swift */; };
+		89AB8B2F201C92840013D631 /* Labrador-Retriever.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B2E201C92840013D631 /* Labrador-Retriever.jpg */; };
+		89AB8B31201CD3000013D631 /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B30201CD3000013D631 /* logo1.png */; };
+		89AB8B33201CD42B0013D631 /* logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B32201CD42B0013D631 /* logo2.png */; };
+		89AB8B35201CD6370013D631 /* golden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89AB8B34201CD6370013D631 /* golden.jpg */; };
+		89AB8B37201D1D210013D631 /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89AB8B36201D1D210013D631 /* SummaryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +36,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		899E6B03201D28A300F95DDD /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
+		899E6B05201D5C9900F95DDD /* Orange Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Orange Background.jpg"; sourceTree = "<group>"; };
+		899E6B07201D7D4600F95DDD /* justTheArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = justTheArrow.png; sourceTree = "<group>"; };
+		899E6B09201D7F6E00F95DDD /* justTheArrow2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = justTheArrow2.png; sourceTree = "<group>"; };
+		899E6B0B201D9E5100F95DDD /* Dr Chen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dr Chen.png"; sourceTree = "<group>"; };
 		89AB8B0B201C92300013D631 /* Doggies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Doggies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89AB8B0E201C92300013D631 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89AB8B10201C92300013D631 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +51,11 @@
 		89AB8B1F201C92310013D631 /* DoggiesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DoggiesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89AB8B23201C92310013D631 /* DoggiesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoggiesTests.swift; sourceTree = "<group>"; };
 		89AB8B25201C92310013D631 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89AB8B2E201C92840013D631 /* Labrador-Retriever.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Labrador-Retriever.jpg"; path = "../../Labrador-Retriever.jpg"; sourceTree = "<group>"; };
+		89AB8B30201CD3000013D631 /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo1.png; sourceTree = "<group>"; };
+		89AB8B32201CD42B0013D631 /* logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo2.png; sourceTree = "<group>"; };
+		89AB8B34201CD6370013D631 /* golden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = golden.jpg; sourceTree = "<group>"; };
+		89AB8B36201D1D210013D631 /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +97,22 @@
 		89AB8B0D201C92300013D631 /* Doggies */ = {
 			isa = PBXGroup;
 			children = (
+				89AB8B2E201C92840013D631 /* Labrador-Retriever.jpg */,
 				89AB8B0E201C92300013D631 /* AppDelegate.swift */,
+				89AB8B32201CD42B0013D631 /* logo2.png */,
 				89AB8B10201C92300013D631 /* ViewController.swift */,
+				89AB8B30201CD3000013D631 /* logo1.png */,
+				899E6B09201D7F6E00F95DDD /* justTheArrow2.png */,
+				899E6B07201D7D4600F95DDD /* justTheArrow.png */,
+				899E6B0B201D9E5100F95DDD /* Dr Chen.png */,
 				89AB8B12201C92300013D631 /* Main.storyboard */,
+				89AB8B34201CD6370013D631 /* golden.jpg */,
+				899E6B05201D5C9900F95DDD /* Orange Background.jpg */,
 				89AB8B15201C92300013D631 /* Assets.xcassets */,
 				89AB8B17201C92300013D631 /* LaunchScreen.storyboard */,
 				89AB8B1A201C92300013D631 /* Info.plist */,
+				89AB8B36201D1D210013D631 /* SummaryViewController.swift */,
+				899E6B03201D28A300F95DDD /* Questions.swift */,
 			);
 			path = Doggies;
 			sourceTree = "<group>";
@@ -140,6 +170,10 @@
 		89AB8B03201C92300013D631 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					nameTextField,
+					nameTextfield,
+				);
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Lauren Tang";
@@ -179,9 +213,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				899E6B08201D7D4600F95DDD /* justTheArrow.png in Resources */,
+				899E6B06201D5C9900F95DDD /* Orange Background.jpg in Resources */,
 				89AB8B19201C92300013D631 /* LaunchScreen.storyboard in Resources */,
+				89AB8B35201CD6370013D631 /* golden.jpg in Resources */,
+				89AB8B33201CD42B0013D631 /* logo2.png in Resources */,
+				89AB8B2F201C92840013D631 /* Labrador-Retriever.jpg in Resources */,
+				899E6B0A201D7F6E00F95DDD /* justTheArrow2.png in Resources */,
 				89AB8B16201C92300013D631 /* Assets.xcassets in Resources */,
 				89AB8B14201C92300013D631 /* Main.storyboard in Resources */,
+				89AB8B31201CD3000013D631 /* logo1.png in Resources */,
+				899E6B0C201D9E5100F95DDD /* Dr Chen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,7 +242,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				89AB8B11201C92300013D631 /* ViewController.swift in Sources */,
+				899E6B04201D28A300F95DDD /* Questions.swift in Sources */,
 				89AB8B0F201C92300013D631 /* AppDelegate.swift in Sources */,
+				89AB8B37201D1D210013D631 /* SummaryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,12 +398,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K4EKT8G45E;
 				INFOPLIST_FILE = Doggies/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Doggies;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -368,12 +414,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K4EKT8G45E;
 				INFOPLIST_FILE = Doggies/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Doggies;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
